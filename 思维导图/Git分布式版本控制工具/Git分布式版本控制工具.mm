@@ -29,8 +29,7 @@
   <body>
     <img src="SVN&#x539f;&#x7406;&#x56fe;.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1705230983716" ID="ID_1643269804" MODIFIED="1705230987310" TEXT="Git">
@@ -52,8 +51,7 @@
   <body>
     <img src="Git&#x5de5;&#x4f5c;&#x6d41;&#x7a0b;&#x56fe;.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1705231209440" ID="ID_1639790585" MODIFIED="1705231217916" TEXT="&#x547d;&#x4ee4;">
@@ -120,8 +118,7 @@
   <body>
     <img src="Git&#x5de5;&#x4f5c;&#x76ee;&#x5f55;&#x4e0b;&#x5bf9;&#x6587;&#x4ef6;&#x7684;&#x4fee;&#x6539;&#x5b58;&#x5728;&#x72b6;&#x6001;&#x8bf4;&#x660e;&#x56fe;.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1705235581458" ID="ID_841127591" MODIFIED="1705235591017" TEXT="&#x547d;&#x4ee4;">
@@ -131,6 +128,46 @@
 <node CREATED="1705235607050" ID="ID_1058326467" MODIFIED="1705236021856" TEXT="&#x6682;&#x5b58;&#x533a;-&gt;&#x672c;&#x5730;&#x4ed3;&#x5e93;&#xff1a;git commit -m &quot;&#x3010;&#x6b64;&#x6b21;&#x4fee;&#x6539;&#x7684;&#x63cf;&#x8ff0;&#x4fe1;&#x606f;&#x3011;&quot;"/>
 <node CREATED="1705235911823" ID="ID_939535731" MODIFIED="1705235925264" TEXT="&#x67e5;&#x770b;&#x5f53;&#x524d;&#x4ed3;&#x5e93;&#x72b6;&#x6001;&#xff1a;git status"/>
 <node CREATED="1705236063068" ID="ID_530397109" MODIFIED="1705236137317" TEXT="&#x67e5;&#x770b;&#x63d0;&#x4ea4;&#x65e5;&#x5fd7;&#xff1a;git log"/>
+<node CREATED="1705239659970" ID="ID_246087662" MODIFIED="1705239680648" TEXT="&#x7248;&#x672c;&#x56de;&#x9000;&#xff1a;git reset --hard &#x3010;commit ID&#x3011;">
+<node CREATED="1705239681839" ID="ID_230857602" MODIFIED="1705239704957" TEXT="commit ID&#x53ef;&#x4ee5;&#x901a;&#x8fc7;&#x4f7f;&#x7528;&#x547d;&#x4ee4;git-log&#x6216;&#x8005;git log&#x6307;&#x4ee4;&#x6765;&#x67e5;&#x770b;"/>
+<node CREATED="1705239708408" ID="ID_1977205372" MODIFIED="1705239727640" TEXT="&#x901a;&#x8fc7;&#x6307;&#x4ee4;git reflog&#x67e5;&#x770b;&#x5df2;&#x7ecf;&#x5220;&#x9664;&#x7684;&#x8bb0;&#x5f55;"/>
+</node>
+<node CREATED="1705240100156" ID="ID_388740641" MODIFIED="1705240346704" TEXT="&#x5982;&#x679c;&#x60f3;&#x5ffd;&#x7565;&#x67d0;&#x4e9b;&#x6587;&#x4ef6;&#x7684;&#x4fee;&#x6539;&#xff0c;&#x53ef;&#x4ee5;&#x521b;&#x5efa;.gitignore&#x6587;&#x4ef6;&#xff0c;&#x8be5;&#x6587;&#x4ef6;&#x4e2d;&#x6240;&#x7f57;&#x5217;&#x7684;&#x6587;&#x4ef6;&#x540d;&#x5728;&#x6dfb;&#x52a0;&#x5230;&#x6682;&#x5b58;&#x533a;&#x547d;&#x4ee4;&#x6267;&#x884c;&#x65f6;&#x4f1a;&#x88ab;&#x5ffd;&#x7565;&#xff0c;&#x4ece;&#x800c;&#x4e0d;&#x4f1a;&#x88ab;&#x63d0;&#x4ea4;&#xff0c;&#x5728;&#x6b64;&#x6587;&#x4ef6;&#x4e2d;&#x53ef;&#x4ee5;&#x4f7f;&#x7528;&#x901a;&#x914d;&#x7b26;&#x6765;&#x6307;&#x5b9a;&#x8981;&#x5ffd;&#x7565;&#x7684;&#x6587;&#x4ef6;&#x3002;"/>
+</node>
+</node>
+<node CREATED="1705240460470" ID="ID_1867151925" MODIFIED="1705240463354" TEXT="&#x5206;&#x652f;">
+<node CREATED="1705240463355" ID="ID_1536346348" MODIFIED="1705240523441" TEXT="&#x51e0;&#x4e4e;&#x6240;&#x6709;&#x7684;&#x7248;&#x672c;&#x63a7;&#x5236;&#x7cfb;&#x7edf;&#x90fd;&#x4ee5;&#x67d0;&#x79cd;&#x5f62;&#x5f0f;&#x652f;&#x6301;&#x5206;&#x652f;&#x3002;&#x4f7f;&#x7528;&#x5206;&#x652f;&#x610f;&#x5473;&#x7740;&#x4f60;&#x53ef;&#x4ee5;&#x628a;&#x4f60;&#x7684;&#x5de5;&#x4f5c;&#x4ece;&#x5f00;&#x53d1;&#x4e3b;&#x7ebf;&#x4e0a;&#x5206;&#x79bb;&#x5f00;&#x6765;&#x8fdb;&#x884c;&#x91cd;&#x5927;&#x7684;BUG&#x4fee;&#x6539;&#x3001;&#x5f00;&#x53d1;&#x65b0;&#x7684;&#x529f;&#x80fd;&#xff0c;&#x4ee5;&#x514d;&#x5f71;&#x54cd;&#x5f00;&#x53d1;&#x4e3b;&#x7ebf;"/>
+<node CREATED="1705240525941" ID="ID_666243884" MODIFIED="1705240528498" TEXT="&#x547d;&#x4ee4;">
+<node CREATED="1705240528501" ID="ID_765864480" MODIFIED="1705240542753" TEXT="&#x67e5;&#x770b;&#x672c;&#x5730;&#x5206;&#x652f;&#xff1a;git branch"/>
+<node CREATED="1705240543010" ID="ID_625582332" MODIFIED="1705240556229" TEXT="&#x521b;&#x5efa;&#x672c;&#x5730;&#x5206;&#x652f;&#xff1a;git branch &#x3010;&#x5206;&#x652f;&#x540d;&#x3011;"/>
+<node CREATED="1705240556720" ID="ID_1892136203" MODIFIED="1705240809412" TEXT="&#x5207;&#x6362;&#x5206;&#x652f;&#xff1a;git checkout &#x3010;&#x5206;&#x652f;&#x540d;&#x3011;&#xa;&#x6211;&#x4eec;&#x8fd8;&#x53ef;&#x4ee5;&#x76f4;&#x63a5;&#x5207;&#x6362;&#x5230;&#x4e00;&#x4e2a;&#x4e0d;&#x5b58;&#x5728;&#x7684;&#x5206;&#x652f;&#xff08;&#x521b;&#x5efa;&#x5e76;&#x5207;&#x6362;&#xff09;&#xa;git checkout -b &#x3010;&#x65b0;&#x5206;&#x652f;&#x540d;&#x3011;"/>
+<node CREATED="1705240576907" ID="ID_1312452223" MODIFIED="1705240758155" TEXT="&#x5408;&#x5e76;&#x5206;&#x652f;&#xff08;&#x4e00;&#x4e2a;&#x5206;&#x652f;&#x4e0a;&#x7684;&#x63d0;&#x4ea4;&#x53ef;&#x4ee5;&#x5408;&#x5e76;&#x5230;&#x53e6;&#x4e00;&#x4e2a;&#x5206;&#x652f;&#xff09;&#xff1a;git merge &#x3010;&#x5206;&#x652f;&#x540d;&#x79f0;&#x3011;"/>
+<node CREATED="1705241435898" ID="ID_1001105594" MODIFIED="1705241521980" TEXT="&#x5220;&#x9664;&#x5206;&#x652f;&#xff1a;&#x4e0d;&#x80fd;&#x5220;&#x9664;&#x5f53;&#x524d;&#x5206;&#x652f;&#xff0c;&#x53ea;&#x80fd;&#x5220;&#x9664;&#x5176;&#x4ed6;&#x5206;&#x652f;&#xa;git branch -d &#x3010;&#x5206;&#x652f;&#x540d;&#x3011;    &#xff08;&#x5220;&#x9664;&#x5206;&#x652f;&#x65f6;&#xff0c;&#x9700;&#x8981;&#x505a;&#x5404;&#x79cd;&#x68c0;&#x67e5;&#xff09;&#xa;git branch -D &#x3010;&#x5206;&#x652f;&#x540d;&#x3011;    &#xff08;&#x4e0d;&#x505a;&#x4efb;&#x4f55;&#x68c0;&#x67e5;&#xff0c;&#x5f3a;&#x5236;&#x5220;&#x9664;&#xff09;"/>
+</node>
+<node CREATED="1705241735249" ID="ID_667729751" MODIFIED="1705241796912" TEXT="&#x89e3;&#x51b3;&#x51b2;&#x7a81;&#xff1a;&#x5f53;&#x4e24;&#x4e2a;&#x5206;&#x652f;&#x4e0a;&#x5bf9;&#x6587;&#x4ef6;&#x7684;&#x4fee;&#x6539;&#x53ef;&#x80fd;&#x4f1a;&#x5b58;&#x5728;&#x51b2;&#x7a81;&#xff0c;&#x4f8b;&#x5982;&#x540c;&#x65f6;&#x4fee;&#x6539;&#x4e86;&#x540c;&#x4e00;&#x4e2a;&#x6587;&#x4ef6;&#x7684;&#x540c;&#x4e00;&#x884c;&#xff0c;&#x8fd9;&#x65f6;&#x5c31;&#x9700;&#x8981;&#x624b;&#x52a8;&#x89e3;&#x51b3;&#x51b2;&#x7a81;&#xff0c;&#x89e3;&#x51b3;&#x51b2;&#x7a81;&#x6b65;&#x9aa4;&#x5982;&#x4e0b;">
+<node CREATED="1705241796913" ID="ID_565073226" MODIFIED="1705241805219" TEXT="1.&#x5904;&#x7406;&#x6587;&#x4ef6;&#x4e2d;&#x51b2;&#x7a81;&#x7684;&#x5730;&#x65b9;"/>
+<node CREATED="1705241805434" ID="ID_1250004756" MODIFIED="1705241821972" TEXT="2.&#x5c06;&#x89e3;&#x51b3;&#x5b8c;&#x51b2;&#x7a81;&#x7684;&#x6587;&#x4ef6;&#x52a0;&#x5165;&#x5230;&#x6682;&#x5b58;&#x5e93;&#xff08;add&#xff09;"/>
+<node CREATED="1705241822187" ID="ID_755748012" MODIFIED="1705241832139" TEXT="3.&#x63d0;&#x4ea4;&#x5230;&#x4ed3;&#x5e93;&#xff08;commit&#xff09;"/>
+</node>
+<node CREATED="1705241907136" ID="ID_924991941" MODIFIED="1705241919628" TEXT="&#x5728;&#x5f00;&#x53d1;&#x4e2d;&#xff0c;&#x4e00;&#x822c;&#x6709;&#x5982;&#x4e0b;&#x5206;&#x652f;&#x4f7f;&#x7528;&#x539f;&#x5219;&#x4e0e;&#x6d41;&#x7a0b;">
+<node CREATED="1705241919630" ID="ID_1586392554" MODIFIED="1705241957241" TEXT="master&#xff08;&#x751f;&#x4ea7;&#xff09;&#x5206;&#x652f;&#xff1a;&#x7ebf;&#x4e0a;&#x5206;&#x652f;&#xff0c;&#x4e3b;&#x5206;&#x652f;&#xff0c;&#x4e2d;&#x5c0f;&#x89c4;&#x6a21;&#x9879;&#x76ee;&#x4f5c;&#x4e3a;&#x7ebf;&#x4e0a;&#x8fd0;&#x884c;&#x7684;&#x5e94;&#x7528;&#x5bf9;&#x5e94;&#x7684;&#x5206;&#x652f;"/>
+<node CREATED="1705241957478" ID="ID_1245465503" MODIFIED="1705242028657" TEXT="develop&#xff08;&#x5f00;&#x53d1;&#xff09;&#x5206;&#x652f;&#xff1a;&#x662f;&#x4ece;master&#x521b;&#x5efa;&#x7684;&#x5206;&#x652f;&#xff0c;&#x4e00;&#x822c;&#x4f5c;&#x4e3a;&#x5f00;&#x53d1;&#x90e8;&#x95e8;&#x7684;&#x4e3b;&#x8981;&#x5f00;&#x53d1;&#x5206;&#x652f;&#xff0c;&#x5982;&#x679c;&#x6ca1;&#x6709;&#x5176;&#x4ed6;&#x5e76;&#x884c;&#x5f00;&#x53d1;&#x4e0d;&#x540c;&#x671f;&#x4e0a;&#x7ebf;&#x8981;&#x6c42;&#xff0c;&#x90fd;&#x53ef;&#x4ee5;&#x5728;&#x6b64;&#x7248;&#x672c;&#x8fdb;&#x884c;&#x5f00;&#x53d1;&#xff0c;&#x9636;&#x6bb5;&#x5f00;&#x53d1;&#x5b8c;&#x6210;&#x540e;&#xff0c;&#x9700;&#x8981;&#x662f;&#x5408;&#x5e76;&#x5230;master&#x5206;&#x652f;&#xff0c;&#x51c6;&#x5907;&#x4e0a;&#x7ebf;"/>
+<node CREATED="1705242030164" ID="ID_1179584482" MODIFIED="1705242499195" TEXT="feature/xxxx&#x5206;&#x652f;&#xff1a;&#x4ece;develop&#x521b;&#x5efa;&#x7684;&#x5206;&#x652f;&#xff0c;&#x4e00;&#x822c;&#x662f;&#x540c;&#x671f;&#x5e76;&#x884c;&#x5f00;&#x53d1;&#xff0c;&#x4f46;&#x4e0d;&#x540c;&#x671f;&#x4e0a;&#x7ebf;&#x65f6;&#x521b;&#x5efa;&#x7684;&#x5206;&#x652f;&#xff0c;&#x5206;&#x652f;&#x4e0a;&#x7684;&#x7814;&#x53d1;&#x4efb;&#x52a1;&#x5b8c;&#x6210;&#x540e;&#x5408;&#x5e76;&#x5230;develop&#x5206;&#x652f;"/>
+<node CREATED="1705242500424" ID="ID_1453135508" MODIFIED="1705242546400" TEXT="hotfix/xxxx&#x5206;&#x652f;&#xff1a;&#x4ece;master&#x6d3e;&#x751f;&#x7684;&#x5206;&#x652f;&#xff0c;&#x4e00;&#x822c;&#x4f5c;&#x4e3a;&#x7ebf;&#x4e0a;bug&#x4fee;&#x590d;&#x4f7f;&#x7528;&#xff0c;&#x4fee;&#x590d;&#x5b8c;&#x6210;&#x540e;&#x9700;&#x8981;&#x5408;&#x5e76;&#x5230;master&#x3001;test&#x3001;develop&#x5206;&#x652f;"/>
+<node CREATED="1705242546912" ID="ID_680753040" MODIFIED="1705242605567" TEXT="&#x8fd8;&#x6709;&#x4e00;&#x4e9b;&#x5176;&#x4ed6;&#x7684;&#x5206;&#x652f;&#xff0c;&#x5728;&#x6b64;&#x4e0d;&#x518d;&#x8be6;&#x8ff0;&#xff0c;&#x4f8b;&#x5982;test&#x5206;&#x652f;&#xff08;&#x7528;&#x4e8e;&#x4ee3;&#x7801;&#x6d4b;&#x8bd5;&#xff09;&#x3001;pre&#x5206;&#x652f;&#xff08;&#x9884;&#x4e0a;&#x7ebf;&#x5206;&#x652f;&#xff09;&#x7b49;&#x7b49;"/>
+</node>
+<node CREATED="1705242813224" FOLDED="true" ID="ID_730991299" MODIFIED="1705242821724" TEXT="&#x5206;&#x652f;&#x8bf4;&#x660e;&#x56fe;">
+<node CREATED="1705242816567" ID="ID_1876774411" MODIFIED="1705242820501">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="&#x5206;&#x652f;&#x8bf4;&#x660e;.png" />
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>
