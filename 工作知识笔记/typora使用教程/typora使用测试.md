@@ -47,3 +47,6 @@ int main(void)
 ~~~
 
 ![](assets/Snipaste_2024-01-15_19-09-38.png)
+
+[这是一个链接](www.baidu.com)
+
